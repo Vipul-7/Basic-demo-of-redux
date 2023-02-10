@@ -1,0 +1,10 @@
+1] Create a empty folder
+2] then in terminal npm init -y
+3] then npm install redux
+4] then import in our file with node.js defalu import syntax. 
+   const redux = require('redux'); 
+5] create a store with redux.createStore()
+6] make reducer function which changes state
+7] make a subscriber and their getstate()
+8] let redux know their subscriber with subscribe(subscriber) method
+9] Now you can dispatch a function
